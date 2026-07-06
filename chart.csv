@@ -1,0 +1,28 @@
+,Fire Hall 1,Port Rd,Fire Hall 2,School ,Medical Clinic ,Anglican Hall ,S. Otter Bay Rd ,Trinco ,Trinco Water Tower,Stanley Point,Harpoon Rd,Port Washington Rd ,L.E.M.R.,Fire Hall 3,Neighbourhood Coord,Pender Bridge ,Canal Rd #1,Canal Rd #2,Castle Rd ,Spalding Rd ,Boundary Passage Dr,Gowland Point Rd,Southlands Dr #1,Harpoon Rd
+Fire Hall 1,X,3,3,3,2,3,0,0,2,0,0,3,2,3,0,2,1,2,0,0,0,0,0,0
+Port Rd,3,X,3,0,0,3,0,0,3,0,3,3,0,,0,0,0,3,0,3,0,0,0,0
+Fire Hall 2,3,3,X,3,3,3,0,0,3,0,0,3,2,3,3,0,1,3,0,2,0,0,0,0
+School ,3,2,3,X,3,3,0,0,2,0,0,0,3,2,3,2,2,2,0,2,0,0,0,0
+Medical Clinic ,-,-,0,3,X,3,0,0,2,0,0,0,2,-,2,2,1,2,0,3,1,1,0,0
+Anglican Hall,-,-,3,3,3,X,0,1,3,0,0,3,3,-,3,2,3,3,0,3,3,0,0,0
+S. Otter Bay Rd ,3,0,0,0,0,0,X,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+Trinco ,3,3,3,3,0,2,0,X,3,0,0,0,3,3,3,1,1,2,1,3,1,2,1,1
+Trinco Water Tower,3,3,3,3,1,2,0,3,X,0,0,0,3,3,3,1,0,1,0,3,1,2,1,
+Stanley Point,3,3,0,0,0,0,0,0,0,X,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Harpoon Rd,3,3,3,0,0,0,0,0,1,1,X,3,2,0,0,0,0,0,0,0,0,0,0,0
+Port Washington Rd,3,3,3,3,2,3,3,0,3,2,1,X,0,1,3,2,2,3,1,0,2,0,0,0
+L.E.M.R.,3,1,2,2,2,3,0,1,2,0,0,2,X,1,3,2,3,2,1,1,0,1,0,0
+Fire Hall 3,3,0,0,3,2,3,0,0,3,0,0,0,2,X,3,0,0,0,0,3,0,3,0,0
+Neighbourhood Coord,3,3,3,3,3,3,0,2,3,0,0,3,3,3,X,3,3,3,0,3,0,0,0,0
+Pender Bridge ,,,,,,,,,,,,,,,,X,,,,,,,,
+Canal Rd #1,3,2,2,3,2,2,0,0,2,0,0,2,3,0.5,2,2,X,3,0,0,1,0,0,0
+Canal Rd #2,3,3,3,3,3,3,0,0,2,0,0,3,3,0,2,3,3,X,0,0,2,0,0,0
+Castle Rd ,-,-,2,0,0,1,0,0,3,1,0,0,0,-,0,0,0,0,X,1,0,0,0,0
+Spalding Rd ,3,3,3,3,2,3,0,2,3,0,0,0,2,3,3,0,0,0,0,X,0,3,0,0
+Boundary Passage Dr,3,2,0,0,0,2,0,0,2,0,0,2,0,0,0,0,3,2,1,1,X,0,0,0
+Gowland Point Rd,,,,,,,,,,,,,,,,,,,,,,X,,
+Southlands Dr #1,2,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,X,0
+Harpoon Rd,3,3,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+NORTH PENDER,,,,,,,,,,,,,,,,,,,,,,,,
+SOUTH PENDER,,,,,,,,,,,,,,,,,,,,,,,,
